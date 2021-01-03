@@ -18,7 +18,6 @@
    }
  }
 
-
 var One={
   ques:"Where does Disha Live?",
   ans:"Bangalore"
